@@ -1,0 +1,8 @@
+| Library            | One-liner Use                                                                    |
+| ------------------ | -------------------------------------------------------------------------------- |
+| `numpy`            | Efficient numerical computations, e.g., arrays and math operations.              |
+| `pandas`           | Data manipulation and analysis with DataFrames.                                  |
+| `matplotlib`       | Creating visualizations like plots and graphs for exploratory analysis.          |
+| `scikit-learn`     | Preprocessing data, training ML models, and evaluating model performance.        |
+| `imbalanced-learn` | Handling class imbalance using oversampling techniques like `RandomOverSampler`. |
+|  `tensorflow`      | Building and training deep learning models using computational graphs.           |
